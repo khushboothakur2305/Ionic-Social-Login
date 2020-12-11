@@ -1,5 +1,5 @@
 {
-  "appId": "io.ionic.starter",
+  "appId": "com.angularfirebase.myproject",
   "appName": "Login",
   "bundledWebRuntime": false,
   "npmClient": "npm",
